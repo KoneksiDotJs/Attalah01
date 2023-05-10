@@ -26,7 +26,7 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 - :seedling: Exploring Artificial Intelligence.
 
-- :✨: In my free time, I keep learn new things.
+- ✨ In my free time, I keep learn new things.
 <!-- 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
  -->
