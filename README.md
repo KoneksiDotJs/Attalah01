@@ -20,6 +20,19 @@
   </h1>
 </div>
 
+### 💬 About Me :
+I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+- :telescope: I’m a student who dreams of becoming a full stack developer.
+
+- :seedling: Exploring Artificial Intelligence.
+
+- :✨: In my free time, I keep learn new things.
+<!-- 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+ -->
+
+---
+
 ### ⚡ Languages and Tools :
 <br/>
 <div>
@@ -38,6 +51,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Attalah01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
